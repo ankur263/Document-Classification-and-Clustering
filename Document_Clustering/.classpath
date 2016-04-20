@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/usr/lib/jvm/java-8-oracle/javafx-src.zip"/>
+	<classpathentry kind="lib" path="/home/ankur/Desktop/Document-Clustering-master/Document_Clustering/jars/weka.jar"/>
+	<classpathentry kind="lib" path="/home/ankur/Desktop/Document-Clustering-master/Document_Clustering/jars/uima-tools.jar"/>
+	<classpathentry kind="lib" path="/home/ankur/Desktop/Document-Clustering-master/Document_Clustering/jars/uima-examples.jar"/>
+	<classpathentry kind="lib" path="/home/ankur/Desktop/Document-Clustering-master/Document_Clustering/jars/uima-document-annotation.jar"/>
+	<classpathentry kind="lib" path="/home/ankur/Desktop/Document-Clustering-master/Document_Clustering/jars/uima-cpe.jar"/>
+	<classpathentry kind="lib" path="/home/ankur/Desktop/Document-Clustering-master/Document_Clustering/jars/uima-core.jar"/>
+	<classpathentry kind="lib" path="/home/ankur/Desktop/Document-Clustering-master/Document_Clustering/jars/tika-app-1.7.jar"/>
+	<classpathentry kind="lib" path="/home/ankur/Desktop/Document-Clustering-master/Document_Clustering/jars/tagcloud.jar"/>
+	<classpathentry kind="lib" path="/home/ankur/Desktop/Document-Clustering-master/Document_Clustering/jars/opencloud.jar"/>
+	<classpathentry kind="lib" path="/home/ankur/Desktop/Document-Clustering-master/Document_Clustering/jars/jfxrt.jar"/>
+	<classpathentry kind="lib" path="/home/ankur/workspace/POSTagging/jars/stanford-corenlp-3.4.1-models_1.jar"/>
+	<classpathentry kind="lib" path="/home/ankur/workspace/POSTagging/jars/stanford-corenlp-3.4.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
