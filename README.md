@@ -1,3 +1,5 @@
+Presentaion slide: http://www.slideshare.net/AnkurShrivastava9/document-classification-and-clustering
+
 #### SMAI Major Project
 
 
@@ -28,3 +30,5 @@ Initially the heterogeneous data set would be provided. This would be processed 
  3. Run com.extraction.MainFile.java as Java Application
  4. Choose your features.
  5. Final output will be generated in current project folder with 'clustered' named.
+
+
